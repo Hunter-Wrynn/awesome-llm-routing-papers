@@ -3,7 +3,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)  
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-A curated academic collection of research papers on **LLM routing**, **expert selection**, **model switching**, and **dynamic orchestration** in large language models.
+A curated academic collection of research papers on **LLM routing**, **expert selection** in large language models.
 
 ---
 
